@@ -1,0 +1,96 @@
+
+html {
+
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+body:hover {
+
+    cursor: default;
+
+}
+
+body {
+
+    margin: 10px;
+
+}
+
+.box {
+
+    background-color: rgb(243, 243, 243);
+    margin: 5px;
+    padding: 10px;
+    padding-right: 20px;
+    border-radius: 10px;
+    border-width: 2px;
+    transition: 200ms ease;
+
+}
+
+.box:hover {
+
+    background-color: rgb(235, 235, 235);
+    transition: 200ms ease;
+
+}
+
+.fancy-btn {
+
+    padding: 8px;
+    border-radius: 5px;
+    border-width: 0;
+    color: white;
+    font-weight: bold;
+    transition: 500ms ease;
+    box-shadow: 1px 1px 1px 1px rgb(240, 240, 240);
+
+}
+
+.fancy-btn:hover {
+
+    opacity: 0.5;
+    border-radius: 0px;
+
+}
+
+.green {
+
+    background-color: springgreen;
+
+}
+
+.red {
+
+    background-color: crimson;
+
+}
+
+
+.orange {
+
+    background-color: orange;
+
+}
+
+
+.violet {
+
+    background-color: blueviolet;
+
+}
+
+.blue {
+
+    background-color: blue;
+
+}
+
+.textfield {
+
+    border-radius: 5px;
+    border-color: cornflowerblue;
+    border-width: 1px;
+
+}

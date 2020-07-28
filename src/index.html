@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/index.css">
+    <title>APP</title>
+</head>
+<body>
+    <h1>Toolbox</h1>
+    <div class="box" style="display: flex;">
+        <div style="width: 150px;">
+            <h3>Excel-Konerter</h3>
+                <button class="fancy-btn green" onclick="openExcelWindow()">ANZEIGEN</button>
+        </div> 
+            <div style="width: 200px; margin-left: 20px; margin-right: 20px;">
+                <p>Konvertieren sie ihre Tabelle in eine alphabetisch geordnete Liste.</p>
+            </div>
+            <img src="../assets/excel.svg" style="margin-left: 30px; margin-top: 10px; width: 80px; height: 80px;">
+    </div>
+    <div class="box" style="display: flex;">
+        <div style="width: 150px;">
+            <h3>PDF-Merger</h3>
+            <button class="fancy-btn green" onclick="openPDFWindow()">ANZEIGEN</button>
+        </div>
+        <div style="width: 200px; margin-left: 20px; margin-right: 20px;">
+            <p>Konvertieren sie viele verschiedene PDF-Dateien zu einem Dokument.</p>
+        </div>
+            <img src="../assets/pdf_icon.svg"  style="margin-left: 20px;">
+    </div>
+    <div class="box" style="display: flex;">
+        <div style="width: 150px;">
+            <h3>HTTP-Requests</h3>
+            <button class="fancy-btn green" onclick="openRequestsWindow()">ANZEIGEN</button>
+        </div>
+        <div style="width: 200px; margin-left: 20px; margin-right: 20px;">
+            <p>Hier können sie test Http-Requests an eine URL machen.</p>
+        </div>
+            <img src="../assets/web_icon.svg"  style="width: 90px; height: 90px; margin-left: 20px;">
+    </div>
+</body>
+<script src="index.js"></script>
+</html>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <linearGradient x1="-0.0538333319" y1="0.06097222" x2="0.922666669" y2="1.03083336" id="gradient_1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.86" stop-color="#5E5E5E" stop-opacity="0.05882353" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.101960786" />
+    </linearGradient>
+    <linearGradient x1="0.5" y1="0.9683333" x2="0.5" y2="0.03" id="gradient_2">
+      <stop offset="0" stop-color="#828282" stop-opacity="0" />
+      <stop offset="0.86" stop-color="#303030" stop-opacity="0.05882353" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.101960786" />
+    </linearGradient>
+    <linearGradient x1="0.635357141" y1="0.3352174" x2="0.8117857" y2="0.120434783" id="gradient_3">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.45" stop-color="#FFFFFF" stop-opacity="0.0117647061" />
+      <stop offset="0.64" stop-color="#FFFFFF" stop-opacity="0.0392156877" />
+      <stop offset="0.78" stop-color="#FFFFFF" stop-opacity="0.0784313753" />
+      <stop offset="0.89" stop-color="#FFFFFF" stop-opacity="0.149019614" />
+      <stop offset="0.99" stop-color="#FFFFFF" stop-opacity="0.239215687" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.2509804" />
+    </linearGradient>
+    <linearGradient x1="0.5" y1="0.9066667" x2="0.5" y2="0.146666661" id="gradient_4">
+      <stop offset="0" stop-color="#828282" stop-opacity="0" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.101960786" />
+    </linearGradient>
+    <linearGradient x1="63" y1="71.44" x2="63" y2="66.88" id="gradient_5">
+      <stop offset="0" stop-color="#828282" stop-opacity="0" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.101960786" />
+    </linearGradient>
+    <linearGradient x1="40" y1="57.44" x2="40" y2="52.88" id="gradient_6">
+      <stop offset="0" stop-color="#828282" stop-opacity="0" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.101960786" />
+    </linearGradient>
+    <linearGradient x1="40.04" y1="73.63" x2="40.04" y2="70.59" id="gradient_7">
+      <stop offset="0" stop-color="#828282" stop-opacity="0" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.101960786" />
+    </linearGradient>
+    <linearGradient x1="0.5" y1="0.90625" x2="0.5" y2="0.1475" id="gradient_8">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.34" stop-color="#FFFFFF" stop-opacity="0.0392156877" />
+      <stop offset="0.9" stop-color="#FFFFFF" stop-opacity="0.129411772" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.149019614" />
+    </linearGradient>
+    <linearGradient x1="40" y1="58.88" x2="40" y2="49.76" id="gradient_9">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.34" stop-color="#FFFFFF" stop-opacity="0.0392156877" />
+      <stop offset="0.9" stop-color="#FFFFFF" stop-opacity="0.129411772" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.149019614" />
+    </linearGradient>
+    <linearGradient x1="64" y1="59.25" x2="64" y2="53.18" id="gradient_10">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.34" stop-color="#FFFFFF" stop-opacity="0.0392156877" />
+      <stop offset="0.9" stop-color="#FFFFFF" stop-opacity="0.129411772" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.149019614" />
+    </linearGradient>
+    <linearGradient x1="40" y1="69.63" x2="40" y2="66.59" id="gradient_11">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="0.34" stop-color="#FFFFFF" stop-opacity="0.0392156877" />
+      <stop offset="0.9" stop-color="#FFFFFF" stop-opacity="0.129411772" />
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.149019614" />
+    </linearGradient>
+  </defs>
+  <g id="Symbol-Instance">
+    <g id="pdf" transform="translate(10 4)">
+      <path d="M0 0L38 0L52 14L52 68L0 68L0 0L0 0Z" transform="translate(4 2)" id="Shape" fill="#FFFFFF" stroke="none" />
+      <path d="M0 0L40 0L56 16L56 72L0 72L0 0ZM2 70L54 70L54 18L38 18L38 2L2 2L2 70ZM40 3L53 16L40 16L40 3Z" transform="translate(2 0)" id="Shape" fill="#A6A6A6" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L40 0L40 2L0 2L0 0Z" transform="translate(10 36)" id="Rectangle-path" fill="#C8C8C8" stroke="none" />
+      <path d="M0 0L40 0L40 2L0 2L0 0Z" transform="translate(10 30)" id="Rectangle-path" fill="#C8C8C8" stroke="none" />
+      <path d="M0 0L40 0L40 2L0 2L0 0Z" transform="translate(10 24)" id="Rectangle-path" fill="#C8C8C8" stroke="none" />
+      <path d="M0 0L14 0L14 2L0 2L0 0Z" transform="translate(10 8)" id="Rectangle-path" fill="#C8C8C8" stroke="none" />
+      <path d="M0 0L28 0L28 22L0 22L0 0ZM24 18L24 4L4 4L4 18L24 18Z" transform="translate(16 44)" id="Shape" fill="#D65532" fill-rule="evenodd" stroke="none" />
+      <path d="M0 0L12 0L12 14L0 14L0 0Z" transform="translate(0 48)" id="Rectangle-path" fill="#D65532" stroke="none" />
+      <path d="M0 0L12 0L12 14L0 14L0 0Z" transform="translate(48 48)" id="Rectangle-path" fill="#D65532" stroke="none" />
+      <path d="M60 48L58 48L58 16L42 0L2 0L2 48L0 48L0 62L2 62L2 72L58 72L58 62L60 62L60 48Z" id="Shape" fill="url(#gradient_1)" stroke="none" />
+      <path d="M0 0L16 0L16 6L0 6L0 0Z" transform="translate(40 18)" id="Rectangle-path" fill="url(#gradient_2)" stroke="none" />
+      <path d="M40 0L0 0L0 2L38 2L38 18L54 18L54 46L56 46L56 16L40 0L40 0Z" transform="translate(2 0)" id="Shape" fill="url(#gradient_3)" stroke="none" />
+      <path d="M0 0L10 0L10 6L0 6L0 0Z" transform="translate(2 62)" id="Rectangle-path" fill="url(#gradient_4)" stroke="none" />
+      <path d="M0 0L10 0L10 6L0 6L0 0Z" transform="translate(48 62)" id="Rectangle-path" fill="url(#gradient_5)" stroke="none" />
+      <path d="M0 0L20 0L20 6L0 6L0 0Z" transform="translate(20 48)" id="Rectangle-path" fill="url(#gradient_6)" stroke="none" />
+      <path d="M0 0L28.08 0L28.08 4L0 4L0 0Z" transform="translate(16 66)" id="Rectangle-path" fill="url(#gradient_7)" stroke="none" />
+      <path d="M0 0L12 0L12 8L0 8L0 0Z" transform="translate(0 48)" id="Rectangle-path" fill="url(#gradient_8)" stroke="none" />
+      <path d="M28 12L24 12L24 4L4 4L4 12L0 12L0 0L28 0L28 12L28 12Z" transform="translate(16 44)" id="Shape" fill="url(#gradient_9)" stroke="none" />
+      <path d="M0 0L12 0L12 8L0 8L0 0Z" transform="translate(48 48)" id="Rectangle-path" fill="url(#gradient_10)" stroke="none" />
+      <path d="M0 0L20 0L20 4L0 4L0 0Z" transform="translate(20 62)" id="Rectangle-path" fill="url(#gradient_11)" stroke="none" />
+    </g>
+  </g>
+</svg>

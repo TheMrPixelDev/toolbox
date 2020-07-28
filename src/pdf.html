@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/index.css">
+    <title>PDF-Merger</title>
+</head>
+<body>
+    <h1>PDF-Merger</h1>
+    <div class="box">
+        <form>
+            <p>Ziel:</p>
+            <input type="text" name="file_name" id="output_file_name">
+            <p>Dateien auswählen und konvertieren:</p>
+            <input type="file" multiple value="Dateien auswählen" id="input_files">
+            <br><br>
+            <input type="button" class="fancy-btn orange" name="start" id="start_conv" value="START">
+        </form>
+    </div>
+    <button class="fancy-btn violet" id="btn-finished" style="margin: 10px; margin-top: 20px;">FERTIG</button>
+</body>
+<script src="pdf.js"></script>
+</html>

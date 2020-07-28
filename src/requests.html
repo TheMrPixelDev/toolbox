@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../assets/index.css">
+    <title>Tool</title>
+</head>
+<body>
+    <h1>Post-Requests</h1>
+    <div class="box">
+        <form action="">
+            <p>Request-URL:</p>
+            <input class="textfield" type="url" name="request_url" id="request_url">
+            <p>Content-Type:</p>
+            <select id="content_type">
+                <option>application/json</option>
+                <option>text/plain</option>
+            </select>
+            <p>Content:</p>
+            <textarea class="textfield" id="content"></textarea>
+            <br>
+            <br>
+            <input type="button" class="fancy-btn orange" value="Senden" id="send_btn">
+            <input type="button" value="Löschen" id="delete_btn" class="fancy-btn red">
+        </form>
+    </div>
+    <div class="box">
+        <p>Ausgabewerte:</p>
+        <textarea class="textfield" id="request_output"></textarea>
+    </div>
+    <button class="fancy-btn violet" id="btn-finished" style="margin: 10px; margin-top: 20px;">FERTIG</button>
+</body>
+<script src="requests.js" type="text/javascript"></script>
+</html>
